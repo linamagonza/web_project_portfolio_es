@@ -1,9 +1,19 @@
-# Triple Espresso
+# Portafolio
 
-- Nombre del proyecto: Pagina Web de una cafetería.
+- El nombre del proyecto: Portafolio Personal
 
-- Descripción del proyecto:
-  Este proyecto es una página web estática para una cafetería llamada Triple Espresso. Incluye una sección principal de bienvenida, un formulario para reservar una mesa y un footer con enlaces a redes sociales. El formulario permite a los usuarios ingresar sus datos (nombre, número de comensales, fecha y correo), asegurando que todos los campos obligatorios estén completos antes de enviarlo. Fue desarrollado utilizando HTML para la estructura y CSS para los estilos (Flexbox, posicionamiento, fondos y estados hover). También se utilizó Normalize.css para consistencia entre navegadores y Prettier para mantener el código organizado.
+- Una descripción del proyecto y su funcionalidad: Este proyecto consiste en el desarrollo de mi portafolio personal como desarrolladora web. Su objetivo es presentar de forma clara y organizada mi perfil, habilidades y proyectos realizados.
 
-- Planes de mejora del proyecto:
-  Como mejora futura, me gustaría hacer que la página sea responsive, para que funcione correctamente en distintos tamaños de pantalla como móviles y tablets. Además, me gustaría incorporar una sección de menú interactivo, donde los usuarios puedan ver de forma clara todos los productos que ofrece la cafetería.
+El sitio está estructurado en secciones como perfil, proyectos destacados y contacto, permitiendo a los usuarios navegar fácilmente y conocer mi trabajo. Además, cuenta con un diseño moderno y adaptable a diferentes tamaños de pantalla.
+
+- Una descripción de las tecnologías y técnicas utilizadas: El proyecto fue desarrollado utilizando tecnologías básicas del desarrollo web:
+
+HTML5 para la estructura del contenido
+CSS3 para el diseño visual
+Flexbox y Grid para la maquetación
+Diseño responsivo (responsive design) mediante media queries
+Uso de aspect-ratio para mantener proporciones en imágenes
+Implementación de hover effects y estilos interactivos
+Organización del código siguiendo una estructura clara y reutilizable
+
+- El enlace a GitHub Pages:
